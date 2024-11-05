@@ -1,7 +1,7 @@
-spawn(function()
+task.spawn(function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Ahmadv999/XhubMM2/refs/heads/main/Community'))()
 end)
 
-spawn(function()
+task.spawn(function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/51388b50740b0cd7684b2fbc.lua'))()
 end)
